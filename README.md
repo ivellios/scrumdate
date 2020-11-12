@@ -7,7 +7,7 @@ You could simply share your work progress via its dashboard. But let's assume th
 So every day you create an update note. Step by step adding new stories and links, while working on the stuff.
 But it takes time!
 
-**Why should you waste your time, while you can generate this status automatically? Over just a few years your
+**Why should you waste your time, while you can generate this status automatically? Over just a few years you
 can save that way even one month of your working time.**
 
 This tool can help you to automate the process, so you can really focus on your work.
